@@ -1,9 +1,9 @@
-# Results
+Results:
 
-```
+
 The number of Owner As in existence are: 1
 The number of Owned in existence are: 3
 After deletion of the OwnerA instance...
 The number of Owner As in existence are: 0
 The number of Owned in existence are: 0
-```
+
